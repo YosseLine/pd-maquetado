@@ -1,0 +1,42 @@
+.text-black{
+  color: #000;
+}
+li.active.background-white, .background-white{
+  background-color: #FFF;
+}
+.padding-left-collapsible{
+  padding-left: 2vw;
+}
+.border-style{
+  border-top: 1px solid grey;
+}
+button.width-btn-100{
+  width: 100%;
+}
+i.material-icons.line-inherit{
+  line-height: inherit;
+}
+aside.flex-bag  {
+  display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+div.container-div-bag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1 0 auto;
+}
+.margin-btm-0{
+  margin-bottom: 0;
+}
+input[type=text].border-black:not(.browser-default){
+  border-bottom: 1px solid #000;
+}
+div.side-100{
+  width: 100%;
+}
+.material-icons.text-black.inline-block{
+  display: inline-block;
+}
